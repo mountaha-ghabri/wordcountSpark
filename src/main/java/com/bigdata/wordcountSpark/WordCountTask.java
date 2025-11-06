@@ -9,6 +9,7 @@ import org.slf4j.LoggerFactory;
 import scala.Tuple2;
 import java.util.Arrays;
 
+
 public class WordCountTask {
     private static final Logger LOGGER = LoggerFactory.getLogger(WordCountTask.class);
 
