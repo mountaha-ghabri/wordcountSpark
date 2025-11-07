@@ -10,7 +10,6 @@ import java.util.Arrays;
 // Removed unused imports and the unused static final LOGGER field to eliminate warnings.
 
 public class WordCountTask {
-
     public static void main(String[] args) {
         if (args.length < 2) {
             System.err.println("Please provide the path of input file and output dir as parameters.");
